@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sonakeshishyan
 - 👀 I’m interested in video games, food, and tv shows!
-- 🌱 I’m currently learning Python in Computer Science 
+- 🌱 I’m currently learning my second language: Java!
 - 💞️ I’m looking to collaborate on projects!
-- 📫 How to reach me ...
+- 📫 How to reach me: soke405@gmail.com
 
 <!---
 sonakeshishyan/sonakeshishyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
